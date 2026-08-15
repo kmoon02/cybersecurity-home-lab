@@ -12,7 +12,7 @@ I will use this repository to practice cybersecurity concepts, complete hands-on
 - Learn how to investigate and document security events
 - Build my cybersecurity portfolio
 
-##Topics
+## Topics
 - Networking
 - Linux
 - Windows Security
