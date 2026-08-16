@@ -58,6 +58,9 @@ I then also removed the group's read permission. Using the following command whi
 
 Now only the owner could read and write the file.
 
+![Linux file permissions before and after chmod](../screenshots/linux-permissions-demo.png)
+*Figure 1: Changing and verifying Linux file permissions using chmod.*
+
 ## Part Three: Numeric Permissions
 I practiced setting permissions using numeric values. Linux permissions use the following values:
  - Read(r): 4
