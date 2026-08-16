@@ -27,6 +27,10 @@ VM Configuration
  - Virtual Disk: approx 80GB
  - Network Adapter: NAT
 
+![Kali Linux VirtualBox configuration](../screenshots/virtualbox-kali-configuration.png.png)
+       
+ *figure 1: Kali Linux virtual machine configuration in Oracle VirtualBox.*
+
  ## Understanding the Virtual Environment
  While my physical computer is the host machine, Kali Linux runs as the guest machine running inside VirtualBox.
 
