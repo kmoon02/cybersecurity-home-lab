@@ -22,6 +22,9 @@ This section captures the Linux fundamentals I have used in my Kali Linux home l
 ### cat
 **Purpose:** Displays the contents of a file. 
 
+![Basic Linux commands demonstrated in Kali Linux](../screenshots/linux-basic-commands.png)
+*Figure 1: Practicing basic Linux filesystem and navigation commands in the Kali Linux terminal.*
+
 ## What I've learned and why it's important for cybersecurity. 
 These might seem like the most basic Kali Linux commands however, they are important. Cybersecurity professionals need to understand the system they are working on. The whoami command identifies the current user, which matters because linux is multi-user operating system. Each user will have different permissions. The pwd commands shows your current location in the filesystem, which helps confirms where you are before working with files or running commands.
 
