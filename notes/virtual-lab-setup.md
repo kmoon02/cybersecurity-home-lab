@@ -49,5 +49,9 @@ This allows Kali Linux to operate as its own computer while using hardware resou
 ## Networking
 The Kali Linux machine is currently running on NAT (Network Address Translation) networking. This is the default setting; I plan on keeping while learning the fundamentals of Linux and virtualization. I plan to learn more about virtual networking and isolated lab networks as the project develops.
 
+![Kali Linux running inside VirtualBox](../screenshots/kali-linux-desktop.png)
+
+*Figure 2: Kali Linux successfully running as a virtual machine in Oracle VirtualBox.*
+
 ## What I've Learned
 Setting up this lab helped me understand that a virtual machine is not another physical computer. It is a software-based computer that uses resources such as RAM, processor time, storage, and networking from the host computer. I also learned the difference between a host and a guest operating system and gained a basic understanding of how VirtualBox manages virtual hardware. This environment will be used throughout my cybersecurity home lab for Linux practice, networking exercises, security tools, and future cybersecurity labs.
