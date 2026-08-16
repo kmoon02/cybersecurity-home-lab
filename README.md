@@ -26,7 +26,22 @@ I will use this repository to practice cybersecurity concepts, complete hands-on
 
 ### Getting Started
 - [x] Create repository
-- [ ] Set up cybersecurity lab
-- [ ] Complete first lab
-- [ ] document first lab
-      
+- [x] Set up cybersecurity lab
+- [x] Complete first lab
+- [x] document first lab
+### Linux
+- [x] Practice basic Linux commands
+- [x] Learn Linux file permissions
+- [x] Complete Linux permissions lab
+- [ ] Learn Linux users and groups
+- [ ] Learn processes and services
+### Networking 
+- [ ] Review networking fundamentals
+- [ ] Learn IP addressing and subnets
+- [ ] Practice Linux networking commands
+- [ ] Complete first networking scanning lab
+### Security
+- [ ] Learn basic log analysis
+- [ ] Complete log analysis lab
+- [ ] Learn vulnerability scanning
+- [ ] Complete vulnerability assessment lab
